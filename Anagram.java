@@ -33,5 +33,5 @@ public class Anagram {
 			}
 		}      
 		sc.close();			
-	}
+	}					//Arbeitszeit:ca. 2 Stunden 
 }
