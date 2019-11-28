@@ -18,4 +18,4 @@ public class Anagram {
 		System.out.println(wort1+" und "+ wort2+" sind kein Anagram");
 	}
 	sc.close();	  
-}}
+}}			//Arbeitszeit: 10min
